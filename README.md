@@ -8,8 +8,9 @@ Projeto em Python para prever a sobrevivência dos passageiros do Titanic utiliz
 3. **Modelagem:** Testes com Regressão Logística e Random Forest.
 4. **Subscrição:** Geração do ficheiro `submission.csv` para submissão no Kaggle.
 
-## 🚀 Tecnologias
-* Python, Pandas, Scikit-Learn, Jupyter Notebook e Dash Analyzer (para os gráficos exploratórios).
+## 🚀 Tecnologias e Ferramentas
+* Python, Pandas, Scikit-Learn e Jupyter Notebook.
+* **[Dash Analyzer](https://github.com/GuiAraujo12/projeto-analise-de-dados):** Aplicação própria em Flask, Pandas e Plotly utilizada para a geração dos gráficos de análise exploratória.
 
 ## 📁 Estrutura
 * `titanic_ml.ipynb`: Notebook principal com o código e pipeline.
